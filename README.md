@@ -1,1 +1,6 @@
 # BusinessConnections
+
+This app is made to help you store your business connections in one place to easily find them when needed. The database stores the connection's name and notes you want to make on this person as well as the companies they work for. The app uses the database to make it easier for you to find the right person. For example, if you need to talk to someone who works in Adobe, you can type that into the app, and it shows you all the connections stored in the database who work in this company. If you want to read the notes you took on this person or write a new note on the person. It also let you add or delete connections and update information on a connection. I built the app in java, and my program connect to the database I created that connects to the class server so the app and the database can work together. 
+
+Learning Reflectoion:
+In this project I actively participated in the practise of software development when I build an app and database that worked totgether to store your business connections. I also learned to I plan designed and implemnet a software project individually. I learned to be creative when I came up with the idea of the app I wanted to make for the project. 
